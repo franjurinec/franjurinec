@@ -1,4 +1,4 @@
- <h2> Now: </h2>
+<h2> Now: </h2>
 <h3><span class="icon">🧪</span> Exploring new technologies and concepts - GoLang, Solidity, JamStack </h3>
 <h3><span class="icon">🎓</span> Studying Data Science - University of Helsinki </h3>
 <br>
