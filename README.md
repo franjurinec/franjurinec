@@ -1,9 +1,6 @@
-<h2> Now: </h2>
-<h3><span class="icon">🧪</span> Exploring new technologies and concepts - Academic Data Management, DevOps </h3>
-<h3><span class="icon">🎓</span> Pursuing MSc in Data Science - University of Helsinki </h3>
-<br>
 <h2> Biography: </h2>
 <h3><span class="icon">⚙️</span> Software Engineer </h3>
+<h3><span class="icon">🎓</span> MSc in Data Science - University of Helsinki </h3>
 <h3><span class="icon">🎓</span> BSc in Computing - FER, University of Zagreb </h3>
 <br>
 <h2>Past works:</h2>
