@@ -1,5 +1,5 @@
 <h2> Biography: </h2>
-<h3><span class="icon">⚙️</span> Software Engineer </h3>
+<h3><span class="icon">⚙️</span> Software Engineer - Yubico AB</h3>
 <h3><span class="icon">🎓</span> MSc in Data Science - University of Helsinki </h3>
 <h3><span class="icon">🎓</span> BSc in Computing - FER, University of Zagreb </h3>
 <br>
