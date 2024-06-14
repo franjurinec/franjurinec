@@ -6,6 +6,5 @@
 <h2>Past works:</h2>
 <h3><span class="icon">📄</span> (HR) <a href="https://apps.unizg.hr/rektorova-nagrada/javno/radovi/671/preuzmi" target="_blank">
     Application of Augmented and Mixed Reality Technologies in Electrical Facilities </a> </h3>
-<h3><span class="icon">📄</span> (EN) <a
-    href="https://github.com/franjurinec/documint/raw/main/extras/BSc%20Thesis.pdf" target="_blank">
+<h3><span class="icon">📄</span> (EN) <a href="https://github.com/franjurinec/documint/raw/main/extras/BSc%20Thesis.pdf" target="_blank">
     System for Writing and Organising Program Documentation </a> </h3>
